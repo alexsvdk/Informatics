@@ -3,6 +3,8 @@ package ru.temoteam.informatics
 import org.junit.Test
 
 import org.junit.Assert.*
+import ru.temoteam.informatics.api.Requester
+import ru.temoteam.informatics.api.objects.Account
 
 /**
  * Example local unit test, which will execute on the development machine (host).
@@ -11,7 +13,7 @@ import org.junit.Assert.*
  */
 class ExampleUnitTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun requesterTest(){
+
     }
 }
