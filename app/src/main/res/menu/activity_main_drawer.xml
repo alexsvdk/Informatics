@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/tasks">
+        <menu>
+            <item
+                android:id="@+id/nav_tasklist"
+                android:icon="@drawable/ic_tasklist"
+                android:title="@string/task_list" />
+            <item
+                android:id="@+id/nav_favorits"
+                android:icon="@drawable/ic_favorits"
+                android:title="@string/favorits" />
+            <item
+                android:id="@+id/nav_recently"
+                android:icon="@drawable/ic_recently"
+                android:title="@string/recently" />
+            <item
+                android:id="@+id/nav_solutions"
+                android:icon="@drawable/ic_solutions"
+                android:title="@string/solutions" />
+        </menu>
+    </item>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+
+
+
+</menu>

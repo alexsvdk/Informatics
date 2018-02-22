@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Informatics</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="tasks">Tasks</string>
+    <string name="task_list">Task List</string>
+    <string name="favorits">Favorits</string>
+    <string name="recently">Recently</string>
+    <string name="solutions">Solutions</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="other">Other</string>
+    <string name="navigation_drawer_open">opened</string>
+    <string name="navigation_drawer_close">closed</string>
 </resources>
